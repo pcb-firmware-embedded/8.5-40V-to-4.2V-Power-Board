@@ -1,0 +1,8 @@
+XL2011
+MP2617
+Aluminum Electrolytic Capacitors - SMD 100uF ±20% 16V SMD,6.3x5.4mm
+Aluminum Electrolytic Capacitors - SMD 47uF ±20% 50V SMD,6.3x7.7mm
+Power Inductors 47uH ±20% 3A SMD,10.8x10x4mm
+Power Inductors 2.2uH ±20% 5.5A SMD,5.4x5.2x3mm
+DSK34 - Schottky Barrier Diodes (SBD) SOD-123
+SS34 - Schottky Barrier Diodes (SBD) SMA(DO-214AC)
